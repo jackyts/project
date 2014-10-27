@@ -7,4 +7,5 @@ commands.
 
 You are watching Git Essentials, from Tuts+ Premium.
 
-Add another line.
+
+All rights reserved
